@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image4-128.jpg</filename>
+	<path>C:\Users\Anaec\Documents\testOCR\images\image4-128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3702</width>
+		<height>6112</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>undefined</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>222</ymin>
+			<xmax>2837</xmax>
+			<ymax>5883</ymax>
+		</bndbox>
+	</object>
+</annotation>
